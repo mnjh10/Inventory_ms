@@ -147,4 +147,4 @@ This project is licensed under the MIT License.
 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Let me know if you would like a version specifically for deployment or add screenshots or badge icons.
+
