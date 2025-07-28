@@ -1,4 +1,5 @@
 Inventory Management System (IMS)
+
 This is a full-stack Inventory Management System built with React for the frontend and Node.js/Express with PostgreSQL for the backend. It enables staff to manage inventory products, monitor low stock alerts, and review logs and reports from a responsive dashboard interface.
 
 Features
